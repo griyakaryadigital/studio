@@ -1,2 +1,8 @@
 # studio
-Studio Web for Griya Karya Digital
+Studio Web by griyakarya.my.id
+
+This repo is our collection projects
+MIT License Copyright (c) Griya Karya Digital
+
+!!!WARNING!!!
+Not for Commercial Use
